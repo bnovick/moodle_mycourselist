@@ -1,0 +1,32 @@
+.block_aoamycourse_list .footer {margin-top: 5px;}
+.block_aoamycourse_list .content { padding: 0 !important;}
+.block_aoamycourse_list .content li:nth-child(even) a,.block_aoamycourse_list .content li:nth-child(odd) span {
+    color: #1b466e !important;
+    background-color: #e1e7ed !important;
+}
+
+.block_aoamycourse_list .content li a, .block_aoamycourse_list .content li span {
+    padding: 6px 15px !important;
+    display: block;
+}
+.block_aoamycourse_list .content li span.dimmed.oldcourse {
+    color: grey !important;
+}
+.block_aoamycourse_list .icon{
+	margin-left: 5px !important;
+}
+.block_aoamycourse_list .icon:hover {
+    cursor: pointer !important;
+}
+.block_aoamycourse_list .content li
+h5{padding: 7px 15px !important;display: block;background: #255584 !important;color: white !important;font-weight: lighter;border-radius: 6px;margin-top: 0px;  margin-bottom: 0px;
+}
+
+.block_aoamycourse_list .content li
+h5.comp{
+	margin-top: 10px;
+}
+
+.block_aoamycourse_list .unlist>li>.column{
+    display: inherit !important;
+}
